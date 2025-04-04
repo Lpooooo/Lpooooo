@@ -49,3 +49,5 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
  [LinkedIn](https://www.linkedin.com/in/luca-picot-912235113/)
  (luchino225@gmail.com)
  06 95 66 57 19 
+
+ ## Merci d'avoir visionner
