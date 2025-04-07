@@ -25,7 +25,10 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
  ## Actuellement stagiaire :man_technologist:
 
  Suivant une formation initiale, je suis stagiaire pour une Application de rencontre Social.
+ 
  J'ai accés au fonctionnement du backend et frontend de l'application [Socializus](https://socializus.org/)
+
+ Une application développé sur le web, android et ios.
 
  ## Mes projets :student:
 
