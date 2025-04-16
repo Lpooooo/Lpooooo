@@ -35,17 +35,20 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
  Pense-Bete : Simple application pour débuter ma formation dans React Native
 
  Recette de Cuisine : Application Web permettant de rechercher des recettes de cuisines
- (Cette appli m'a permis de pratiquer, allier le backend et frontend)
+Cette appli m'a permis de pratiquer et d'allier le backend et le frontend.
 
  ## Mes projets en cours :hammer_and_wrench:
 
  Ventes aux enchéres: Projet en construction, permettant d'acheter ou de vendre des produits
 
- Loup-Garou: Jeu mobile du Loup-Garou, avec la possibilité de jouer en ligne et des parties avec des durées différentes
+ Loup-Garou: Jeu mobile du Loup-Garou, avec la possibilité de jouer en ligne et faire des parties en ligne avec des durées différentes
 
  ## Mes passions :star:
 
  Le développement Mobile : Travailler sur un projet pouvant etre déployé sur le web et le mobile demande une certaine rigueur, je prends beaucoup de plaisir notamment avec React NATIVE CLI
+ Dans mon temps libre je fais souvent du sport comme le tennis et du renforcement musculaire.
+ J'ai pour projet également de programmer un jeu d'echec avec une interface graphique pour jouer.
+ (Etant passionné des échecs)
 
  ## Mes coordonnées
 
