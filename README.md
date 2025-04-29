@@ -30,12 +30,16 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
 
  Une application développé sur le web, android et ios.
 
+ ## Futur Développeur Alternant ! :sparkles:
+ À la suite d’un entretien très enrichissant avec la Société Générale, je suis fier d’annoncer que je rejoindrai l’équipe en septembre 2025 en tant qu’alternant développeur !
+ Hâte de commencer cette nouvelle aventure ! 🚀
+
  ## Mes projets :student:
 
  Pense-Bete : Simple application pour débuter ma formation dans React Native
 
  Recette de Cuisine : Application Web permettant de rechercher des recettes de cuisines
-Cette appli m'a permis de pratiquer et d'allier le backend et le frontend.
+ Cette appli m'a permis de pratiquer et d'allier le backend et le frontend.
 
  ## Mes projets en cours :hammer_and_wrench:
 
