@@ -31,7 +31,8 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
  Une application développé sur le web, android et ios.
 
  ## Futur Développeur Alternant ! :sparkles:
- À la suite d’un entretien très enrichissant avec la Société Générale, je suis fier d’annoncer que je rejoindrai l’équipe en septembre 2025 en tant qu’alternant développeur !
+ À la suite d’un entretien très enrichissant avec la Société Générale, je suis fier d’annoncer que je rejoindrai l’équipe en septembre 2025 dans le cadre de la poursuite de mes études en Master Développement 
+ Full Stack, en tant qu’alternant développeur.
  Hâte de commencer cette aventure ! 🚀
 
  ## Mes projets :student:
