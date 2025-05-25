@@ -33,7 +33,7 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
 
  ## Futur Développeur Alternant ! :sparkles:
  À la suite d’un entretien très enrichissant avec la Société Générale, je suis fier d’annoncer que je rejoindrai l’équipe en Aout 2025 dans le cadre de la poursuite de mes études en Master Manager 
- Ingenierie Informatique, Expert en Administrations Systèmes et réseau de sécurité, en tant qu’alternant développeur.
+ Ingenierie Informatique, Expert Transformation Qualité et Sécurité des Systèmes Informatiques, en tant qu’alternant développeur.
 
  Hâte de commencer cette aventure ! 🚀
 
