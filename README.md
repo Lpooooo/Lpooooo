@@ -3,7 +3,7 @@
 ## Qui suis-je ?
 
 Je m'appelle **Luca Picot**, étudiant en troisième année de Bachelor en informatique au campus Ynov, spécialisé en développement web. 
-Mon parcours en programmation a débuté en septembre dernier, après l'obtention de mon BTS Assistant Technique Ingénieur.
+Mon parcours en programmation a débuté en septembre 2024, après l'obtention de mon BTS Assistant Technique Ingénieur.
 
 ## Mon parcours
 
