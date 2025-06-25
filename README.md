@@ -7,7 +7,7 @@ Mon parcours en programmation a débuté en septembre 2024, après l'obtention d
 
 ## Mon parcours
 
-L'informatique a toujours occupé une place importante dans ma vie, et c'est avec passion que je me suis tourné vers le développement web. 
+L'informatique a toujours occupé une place importante dans ma vie et c'est avec passion que je me suis tourné vers le développement web. 
 Depuis, j'ai acquis des compétences solides et continue de me perfectionner avec l'objectif de devenir Expert dans le domaine.
 
 ## Mes Compétences :computer:
