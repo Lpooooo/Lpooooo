@@ -51,7 +51,7 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
 
  Ventes aux enchéres: Projet en construction, permettant d'acheter ou de vendre des produits
 
- Loup-Garou: Jeu mobile du Loup-Garou, avec la possibilité de jouer en ligne et faire des parties en ligne avec des durées différentes
+ Loup-Garou: Jeu mobile, avec la possibilité de jouer en ligne ou bien en local avec ses amis.
 
  ## Mes passions :star:
 
