@@ -39,27 +39,19 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
 
  ## Mes projets :student:
 
- Pense-Bete : Simple application pour débuter ma formation dans React Native
+ Loup Garou-Mobile : Un jeu mobile sur le thème du Loup-Garou, permettant de jouer entre amis en local.
 
- Recette de Cuisine : Application Web permettant de rechercher des recettes de cuisines
- Cette appli m'a permis de pratiquer et d'allier le backend et le frontend.
+ Ventes aux enchères : Application permettant d’enchérir sur des produits digitaux ainsi que de mettre ses propres produits en vente.
 
  Salle de repos : Site web d’un projet universitaire visant à intégrer des espaces de sieste dans les écoles privées.
- Il présente les Box disponibles, des articles sur le bien-être et la santé mentale, et permet aux étudiants de réserver un créneau via leur établissement.
-
- ## Mes projets en cours :hammer_and_wrench:
-
- Ventes aux enchéres: Projet en construction, permettant d'acheter ou de vendre des produits
-
- Loup-Garou: Jeu mobile, avec la possibilité de jouer en ligne ou bien en local avec ses amis.
+ Il présente les Box disponibles, des articles sur le bien-être de la santé mentale, et permet aux étudiants de réserver un créneau via leur établissement.
 
  ## Mes passions :star:
-
- Le développement Mobile : Travailler sur un projet pouvant etre déployé sur le web et le mobile demande une certaine rigueur.
+ 
+ J’ai toujours été passionné par les nouvelles technologies, en particulier dans le domaine du développement logiciel et des systèmes informatiques.
+ 
  Dans mon temps libre je fais souvent du sport comme le tennis et du renforcement musculaire.
- J'ai pour projet également de programmer un jeu d'echec avec une interface graphique pour jouer.
- (Etant passionné des échecs)
-
+ 
  ## Mes coordonnées
 
  [LinkedIn](https://www.linkedin.com/in/luca-picot-912235113/) :link:
