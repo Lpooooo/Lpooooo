@@ -29,15 +29,6 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
 
  Hâte de commencer cette aventure ! 🚀
 
- ## Mes projets :student:
-
- Loup Garou-Mobile : Un jeu mobile sur le thème du Loup-Garou, permettant de jouer entre amis en local.
-
- Ventes aux enchères : Application permettant d’enchérir sur des produits digitaux ainsi que de mettre ses propres produits en vente.
-
- Salle de repos : Site web d’un projet universitaire visant à intégrer des espaces de sieste dans les écoles privées.
- Il présente les Box disponibles, des articles sur le bien-être de la santé mentale, et permet aux étudiants de réserver un créneau via leur établissement.
-
  ## Mes passions :star:
  
  J’ai toujours été passionné par les nouvelles technologies, en particulier dans le domaine du développement logiciel et des systèmes informatiques.
