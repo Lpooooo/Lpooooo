@@ -23,7 +23,7 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
  Framework/Environnement : Next.js (intermédiaire), React.jsx(avancé),
  Native CLI (avancé), Angular (Intermédiaire) 
 
- ## Alternant à la Société  Général en tant que Développeur React/Jav/Angular ! :sparkles:
+ ## Alternant à la Société  Général en tant que Développeur React/Java ! :sparkles:
  À la suite d’un entretien très enrichissant avec la Société Générale, je suis fier d’annoncer que j'ai rejoins l’équipe en Aout 2025 dans le cadre de la poursuite de mes études en Master Manager 
  Ingenierie Informatique, Expert Transformation Qualité et Sécurité des Systèmes Informatiques, en tant qu’alternant développeur.
 
