@@ -2,13 +2,11 @@
 
 ## Qui suis-je ?
 
-Je m'appelle **Luca Picot**, étudiant en troisième année de Bachelor en informatique au campus Ynov, spécialisé en développement web. 
-Mon parcours en programmation a débuté en septembre 2024, après l'obtention de mon BTS Assistant Technique Ingénieur.
-
+Je m'appelle **Luca Picot**, étudiant en Master Manager Ingénierie informatique à l'UTEC,
 ## Mon parcours
 
 L'informatique a toujours occupé une place importante dans ma vie et c'est avec passion que je me suis tourné vers le développement web. 
-Depuis, j'ai acquis des compétences solides et continue de me perfectionner avec l'objectif de devenir Expert dans le domaine.
+Depuis, je continue d'acquèrir des compétences solides et continue de me perfectionner avec l'objectif de devenir Expert dans le domaine.
 
 ## Mes Compétences :computer:
  
@@ -20,12 +18,10 @@ Depuis, j'ai acquis des compétences solides et continue de me perfectionner ave
 
  Base de données : MySQL (avancé), MongoDB Compass (avancé)
 
- Framework/Environnement : Next.js (intermédiaire), React.jsx(avancé),
- Native CLI (avancé), Angular (Intermédiaire) 
+ Framework/Environnement : Next.js (intermédiaire), React.jsx(avancé),Native CLI (avancé), Angular (Intermédiaire) 
 
  ## Alternant à la Société  Général en tant que Développeur React/Java ! :sparkles:
- À la suite d’un entretien très enrichissant avec la Société Générale, je suis fier d’annoncer que j'ai rejoins l’équipe en Aout 2025 dans le cadre de la poursuite de mes études en Master Manager 
- Ingenierie Informatique, Expert Transformation Qualité et Sécurité des Systèmes Informatiques, en tant qu’alternant développeur.
+ À la suite d’un entretien très enrichissant avec la Société Générale, je suis fier d’annoncer que j'ai rejoins l’équipe en Aout 2025 dans le cadre de la poursuite de mes études, Expert Transformation Qualité et Sécurité des Systèmes Informatiques, en tant qu’alternant développeur.
 
  Hâte de commencer cette aventure ! 🚀
 
