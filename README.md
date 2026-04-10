@@ -37,4 +37,4 @@ Depuis, je continue d'acquèrir des compétences solides et continue de me perfe
  luchino225@gmail.com :mailbox:
  06 95 66 57 19 
 
- ## Merci d'avoir visionner :blush:
+ ## Merci d'avoir visionner 
