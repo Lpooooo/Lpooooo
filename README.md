@@ -29,6 +29,6 @@ Actuellement en alternance en tant qu'**Analyste Processus & Projets Métiers / 
 ### 📫 Me contacter
 * **Email :** luchino225@gmail.com
 * **Téléphone :** 06 95 66 57 19
-* **LinkedIn :** [Insérer ton lien LinkedIn]
+* **LinkedIn :** (https://www.linkedin.com/in/luca-picot-912235113/)
 
 Merci d'avoir visionné ! ✨
