@@ -1,40 +1,34 @@
-# Bienvenue sur mon profil GitHub !
+# Bienvenue sur mon profil ! 👋
 
-## Qui suis-je ?
+Je m'appelle **Luca PICOT**, étudiant en Master Manager Ingénierie Informatique (spécialité *Transformation Qualité et Sécurité des Systèmes Informatiques*) à l'UTEC. 
 
-Je m'appelle **Luca Picot**, étudiant en Master Manager Ingénierie informatique à l'UTEC,
-## Mon parcours
+Actuellement en alternance en tant qu'**Analyste Processus & Projets Métiers / Développeur** à la **Société Générale**, je combine une solide maîtrise technique des architectures logiques avec une vision orientée sur l'analyse des risques et l'optimisation des processus.
 
-L'informatique a toujours occupé une place importante dans ma vie et c'est avec passion que je me suis tourné vers le développement web. 
-Depuis, je continue d'acquèrir des compétences solides et continue de me perfectionner avec l'objectif de devenir Expert dans le domaine.
+---
 
-## Mes Compétences :computer:
- 
- Technologies Web : HTML (avancé), CSS (avancé), PHP (intermédiaire)
+### 💼 Mon parcours professionnel
+* **Société Générale** *(Depuis août 2025)* : Alternant — Analyse et optimisation des processus métiers, conception de modules d'enquête et de pilotage de la qualité de service, et collaboration transverse sur les environnements Mainframe.
+* **Assystem** *(2022-2024)* : Chargé d'affaires techniques et rédacteur — Analyse de processus réglementés et rédaction de procédures critiques (secteur nucléaire).
 
- Front-end : JavaScript (avancé), Typescript (avancé)
+---
 
- Back-end : Node.js, (avancé), Express (intermediaire), Java (avancé)
+### 💻 Compétences clés & Systèmes d'Information
+* **Analyse & Méthodes :** Audit de processus, cartographie des flux et des risques opérationnels, gestion de projet, rédaction documentaire.
+* **Environnements Techniques :** Java 17 (Spring Boot), API REST, architectures logiques et bases de données (MySQL).
+* **Outils & Web :** JavaScript / TypeScript, React, Node.js, environnements Mainframe.
 
- Base de données : MySQL (avancé), MongoDB Compass (avancé)
+---
 
- Framework/Environnement : Next.js (intermédiaire), React.jsx(avancé),Native CLI (avancé), Angular (Intermédiaire) 
+### 🎯 Mes centres d'intérêt
+* **Stratégie & Réflexion :** Les Échecs (développement de la vision tactique et de l'anticipation).
+* **Sport :** Tennis et natation.
+* **Ouverture sur le monde :** Voyages (États-Unis, Japon, Mexique, Grèce, Canada) — Maîtrise du français (natif), de l'italien (bilingue), de l'espagnol (C1) et de l'anglais professionnel.
 
- ## Alternant à la Société  Général en tant que Développeur React/Java ! :sparkles:
- À la suite d’un entretien très enrichissant avec la Société Générale, je suis fier d’annoncer que j'ai rejoins l’équipe en Aout 2025 dans le cadre de la poursuite de mes études, Expert Transformation Qualité et Sécurité des Systèmes Informatiques, en tant qu’alternant développeur.
+---
 
- Hâte de commencer cette aventure ! 🚀
+### 📫 Me contacter
+* **Email :** luchino225@gmail.com
+* **Téléphone :** 06 95 66 57 19
+* **LinkedIn :** [Insérer ton lien LinkedIn]
 
- ## Mes passions :star:
- 
- J’ai toujours été passionné par les nouvelles technologies, en particulier dans le domaine du développement logiciel et des systèmes informatiques.
- 
- Dans mon temps libre je fais souvent du sport comme le tennis.
- 
- ## Mes coordonnées
-
- [LinkedIn](https://www.linkedin.com/in/luca-picot-912235113/) :link:
- luchino225@gmail.com :mailbox:
- 06 95 66 57 19 
-
- ## Merci d'avoir visionner 
+Merci d'avoir visionné ! ✨
